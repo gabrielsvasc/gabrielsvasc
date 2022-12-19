@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/gabrielsvasc">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsvasc&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsvasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsvasc&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=gabrielsvasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 ## Skills
